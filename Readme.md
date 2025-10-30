@@ -5,7 +5,7 @@
 
 | Nom complet         | Usuari GitHub       |    imatge   |
 |---------------------|---------------------|-------------|
-| María José Bonete   | @MjoseBH            |     ![María José](<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6f3791a9-bc22-452b-8b5d-ddf90d0858ee" />
+| María José Bonete   | @MjoseBH            | (<img width="40" alt="image" src="https://github.com/user-attachments/assets/6f3791a9-bc22-452b-8b5d-ddf90d0858ee" />
 )
     |
 | Angela Seguí        | @angelasegui        |              
