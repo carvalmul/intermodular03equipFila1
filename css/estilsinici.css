@@ -79,6 +79,11 @@ html{
     text-align:center;
     background-color:white;
 }
+
+.fondoDeathNote{
+    background-color: red;
+
+}
 #principal p.imdb{
     width:15%;
     margin: 10px auto;
