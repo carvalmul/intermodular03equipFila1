@@ -3,10 +3,10 @@
 
 ## 👥 Membres del grup
 
-| Nom complet         | Usuari GitHub       |
-|---------------------|---------------------|
-| María José Bonete   | @MjoseBH            |
-| Angela Seguí        | @angelasegui        |
+| Nom complet         | Usuari GitHub       |             |
+|---------------------|---------------------|-------------|
+| María José Bonete   | @MjoseBH            |https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7USPHJTUVIuEkN081dw-78X0vc6Xw9RCVQ&s             |
+| Angela Seguí        | @angelasegui        |              
 | Carlos Valls        | @carvalmul          | 
 | Eleazar López       | @eleazar-1          |
 | Andreu Martos       | @andreu42069        |
