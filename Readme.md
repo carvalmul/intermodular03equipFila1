@@ -3,9 +3,11 @@
 
 ## 👥 Membres del grup
 
-| Nom complet         | Usuari GitHub       |             |
+| Nom complet         | Usuari GitHub       |    imatge   |
 |---------------------|---------------------|-------------|
-| María José Bonete   | @MjoseBH            |https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7USPHJTUVIuEkN081dw-78X0vc6Xw9RCVQ&s             |
+| María José Bonete   | @MjoseBH            |     ![María José](<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/6f3791a9-bc22-452b-8b5d-ddf90d0858ee" />
+)
+    |
 | Angela Seguí        | @angelasegui        |              
 | Carlos Valls        | @carvalmul          | 
 | Eleazar López       | @eleazar-1          |
