@@ -1,4 +1,75 @@
-argin: 10px auto;
+html{
+    background-color:#DDD;
+    font-family:arial;
+    box-sizing: border-box;
+}
+
+#cap{
+    width:80%;
+    margin: 10px auto;
+    padding:20px;
+    border:solid 5px black;
+    text-align:center;
+    background-color:rgb(255, 222, 150);
+}
+
+#cap h1{
+    width:60%;
+    margin: 10px auto;
+    padding:20px;
+    border:solid 1px red;
+    color:red;
+    font-weight: bold;
+    text-align:center;
+    background-color:white;
+}
+#cap h2{
+    width:30%;
+    margin: 10px auto;
+    padding:20px;
+    border:solid 5px yellow;
+    color:yellow;
+    font-weight: bold;
+    text-align:center;
+    background-color:black;
+}
+
+#principal{
+    width:80%;
+    margin: 10px auto;
+    padding:20px;
+    border:solid 5px black;
+    text-align:center;
+    background-color:rgb(255, 222, 150);
+}
+#menu{
+    width:80%;
+    margin: 10px auto;
+    padding:20px;
+    border:solid 5px yellow;
+    color:yellow;
+    font-weight: bold;
+    text-align:center;
+    background-color:black;
+    background-image: linear-gradient(to bottom, yellow 20%, black 50%);
+}
+#menu ul{
+    list-style-type: none;
+ margin: 10px auto;
+    padding:10px;
+}
+#menu ul li{
+    display:inline-block;
+    width:200px;
+    border: solid 1px red;
+    background-color:white;
+    font-weight: normal;
+    color:black;
+}
+
+#principal p.paragraf{
+    width:60%;
+    margin: 10px auto;
     padding:20px;
     border:solid 1px red;
     color:red;
