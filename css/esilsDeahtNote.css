@@ -1,3 +1,5 @@
+ /* estils intermodular 03 web */
+
 html{
     background-color:#DDD;
     font-family:arial;
@@ -40,13 +42,13 @@ html{
     padding:20px;
     border:solid 5px black;
     text-align:center;
-    background-color:rgb(255, 222, 150);
+    background-color:rgb(15, 84, 163);
 }
 #menu{
     width:80%;
     margin: 10px auto;
     padding:20px;
-    border:solid 5px yellow;
+    border:solid 5px rgb(195, 195, 88);
     color:yellow;
     font-weight: bold;
     text-align:center;
@@ -99,7 +101,7 @@ html{
     padding:20px;
     border:solid 5px black;
     text-align:center;
-    background-color:rgb(255, 222, 150);
+    background-color:rgb(51, 194, 12);
 }
 #peu p{
     width:60%;
@@ -111,7 +113,7 @@ html{
     background-color:black;
 }
 
-.imatge{
+#dh{
     width:600px;
     margin:20px;
 }
