@@ -39,8 +39,8 @@
 
 ## 🎬 Enllaços IMDb de les sèries triades
 
-- [i-Carly](https://www.imdb.com/es/title/tt0972534/)
-- [Stranger Things](https://www.imdb.com/title/tt4574334/)
+1 - [i-Carly](https://www.imdb.com/es/title/tt0972534/)
+2 - [Death Note](https://www.imdb.com/es-es/title/tt0877057/)
 - [The Crown](https://www.imdb.com/title/tt4786824/)
 - [Sherlock](https://www.imdb.com/title/tt1475582/)
 
