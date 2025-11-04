@@ -28,11 +28,11 @@
 | Nom de la tasca                    | Persona assignada      |
 |------------------------------------|------------------------|
 | Creació estructura inicial web     | Carlos Valls           |
-| Disseny de pàgina de la sèrie 1    | Carlos Valls           |
+| Disseny de pàgina de la sèrie 1    | MJose Bonete           |
 | Disseny de pàgina de la sèrie 2    | Angela Segui           |
 | Disseny de pàgina de la sèrie 3    | Eleazar Lopez          |
 | Disseny de pàgina de la sèrie 4    | Andreu Martos          |
-| Disseny de pàgina de la sèrie 5    | MJose Bonete           |
+| Unió de les webs y menú del index  | Carlos Valls           |
 | Redacció del README.md             | MJose - Eleazar       |
 
 ---
