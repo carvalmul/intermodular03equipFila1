@@ -63,6 +63,7 @@ html{
 #menu ul li{
     display:inline-block;
     width:200px;
+    height: 50px;
     border: solid 1px rgb(86, 121, 249);
     background-color:white;
     font-weight: normal;

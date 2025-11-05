@@ -1,5 +1,3 @@
- /* estils intermodular 03 web */
-
 html{
     background-color:#DDD;
     font-family:arial;
@@ -45,7 +43,7 @@ html{
     background-color:rgb(255, 222, 150);
 }
 #menu{
-    width:80%;
+    width: 80%;
     margin: 10px auto;
     padding:20px;
     border:solid 5px yellow;
@@ -57,14 +55,15 @@ html{
 }
 #menu ul{
     list-style-type: none;
- margin: 10px auto;
+    margin: 10px auto;
     padding:10px;
 }
 #menu ul li{
     display:inline-block;
-    width:200px;
+    width: 200px;
+    height: 50px;
     border: solid 1px red;
-    background-color:white;
+    background-color:rgb(255, 255, 255);
     font-weight: normal;
     color:black;
 }
@@ -80,10 +79,6 @@ html{
     background-color:white;
 }
 
-.fondoDeathNote{
-    background-color: red;
-
-}
 #principal p.imdb{
     width:15%;
     margin: 10px auto;
