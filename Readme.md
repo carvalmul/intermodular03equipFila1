@@ -41,7 +41,7 @@
 
 - [i-Carly](https://www.imdb.com/es/title/tt0972534/)
 - [Death Note](https://www.imdb.com/es-es/title/tt0877057/)
-- [3a serie]()
+- [Supernaturals](https://www.imdb.com/es-es/title/tt0460681/)
 - [4a serie]()
-- [5a serie]()
+
 
