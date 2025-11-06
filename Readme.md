@@ -1,5 +1,5 @@
 
-# 📚 Projecte Intermodular03equipX
+# 📚 Projecte Intermodular03equip1
 
 ## 👥 Membres del grup
 
@@ -9,7 +9,6 @@
 | Angela Seguí        | @angelasegui        | <img width="50" alt="image" src="https://github.com/user-attachments/assets/c2cfc3d7-2a30-45f3-9e1e-95ce742327c4" />  
 | Carlos Valls        | @carvalmul          | <img width="50" alt="image" src="https://github.com/user-attachments/assets/35422559-f2e9-4fe4-8e40-0bea9bc0ae07" />
 | Eleazar López       | @eleazar-1          | <img width="50"  alt="image" src="https://github.com/user-attachments/assets/f5bddae2-1e29-42f4-a657-d98c58bca659" />
-| Andreu Martos       | @andreu42069        |<img width="50" alt="image" src="https://github.com/user-attachments/assets/bf03a51b-0861-4936-893e-e7b55ac32e10" />
 
 ---
 
@@ -31,9 +30,9 @@
 | Disseny de pàgina de la sèrie 1    | MJose Bonete           |
 | Disseny de pàgina de la sèrie 2    | Angela Segui           |
 | Disseny de pàgina de la sèrie 3    | Eleazar Lopez          |
-| Disseny de pàgina de la sèrie 4    | Andreu Martos          |
+| Disseny de pàgina de la sèrie 4    |                        |
 | Unió de les webs y menú del index  | Carlos Valls           |
-| Redacció del README.md             | MJose - Eleazar       |
+| Redacció del README.md             | MJose - Eleazar        |
 
 ---
 
